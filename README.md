@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/DB-Access.svg)](http://hits.dwyl.io/abhinav-codealchemist/DB-Access)
 # DB-Access
 Database Access Application
 
